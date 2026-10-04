@@ -16,7 +16,10 @@
 
 ## 🚀 Live Demo
 
-> Deploy URL will appear here after deployment.
+| Environment | URL |
+|-------------|-----|
+| 🌐 **Production** | [https://getdontforget.net](https://getdontforget.net) |
+| 🔧 **Staging / Preview** | [https://areese-frontend.vercel.app](https://areese-frontend.vercel.app) |
 
 ---
 
